@@ -4,7 +4,7 @@ import type { Site, Page, Links, Socials } from "@types"
 export const SITE: Site = {
   TITLE: "Almondd",
   DESCRIPTION: "",
-  AUTHOR: "Mark Horn",
+  AUTHOR: "Madhuri Basant",
 }
 
 

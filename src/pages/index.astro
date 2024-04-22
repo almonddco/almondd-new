@@ -5,6 +5,8 @@ import TwinklingStars from "@components/TwinklingStars.astro";
 import MeteorShower from "@components/MeteorShower.astro";
 import TabsComponent from "@components/TabComponent";
 import ParallaxScrollComp from "@components/ParallaxScrollComp.astro";
+import { ClientTestimonial } from "@components/ClientTestimonial";
+import Work from "@components/Work.astro";
 ---
 
 <PageLayout title="Home" description={SITE.DESCRIPTION}>
@@ -174,10 +176,9 @@ import ParallaxScrollComp from "@components/ParallaxScrollComp.astro";
       <TabsComponent client:load />
     </section>
 
-    <section id="works">
-      <h1 class="text-4xl md:text-6xl text-center font-semibold text-white">Our Works</h1>
-      <ParallaxScrollComp/>
-    </section>
-        
+   <Work/>
+
+    <ClientTestimonial client:load />
+      
   </div>
 </PageLayout>

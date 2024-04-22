@@ -9,6 +9,7 @@ export default {
       fontFamily: {
        "noto-sans":['Noto Sans Variable', 'sans-serif']
       },
+
       typography: {
         DEFAULT: {
           css: {
@@ -25,8 +26,14 @@ export default {
       animation: {
         twinkle: "twinkle 2s ease-in-out forwards",
         meteor: "meteor 3s ease-in-out forwards",
+        scroll: "scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite",
       },
       keyframes: {
+        scroll: {
+          to: {
+            transform: "translate(calc(-50% - 0.5rem))",
+          },
+        },
         twinkle: {
           "0%": { 
             opacity: 0, 
@@ -40,7 +47,9 @@ export default {
             opacity: 0, 
             transform: "rotate(360deg)" 
           },
+         
         },
+       
         meteor: {
           "0%": { 
             opacity: 0, 
