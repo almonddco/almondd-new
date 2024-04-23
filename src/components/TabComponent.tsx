@@ -98,20 +98,24 @@ function TabsComponent() {
             content: (
                 <div className="w-full bg-black card rounded-md h-auto flex flex-col-reverse md:flex-row md:items-center ">
                     <div className="space-y-4 w-full ">
-                        <h1 className="text-2xl font-bold text-center md:text-left">The Social Media Suite for Bold Creatives</h1>
-                        <p className="text-gray-500">Ditch the Design Dilemmas. Creating high-quality social media content shouldn't be a headache. Our user-friendly suite lets you:</p>
+                        <h1 className="text-2xl font-bold text-center md:text-left">Level Up Your Social Media</h1>
+                        <p className="text-gray-500">Creatives, ditch the design struggles! Build a thriving online presence with our all-in-one suite</p>
 
 
                         <ul className="list-disc space-y-3 text-gray-500">
-                            <li>Craft Captivating Posts: Design stunning visuals, write engaging captions, and tailor content for each platform.</li>
                             <li>
-                                Spark Engagement: Go beyond the static with eye-catching animations and video edits that grab attention and get people talking.
+                                Craft stunning visuals and write catchy captions in minutes - no design experience needed. Tailor content for each platform to maximize reach.</li>
+                            <li>
+                            Go beyond static! Create engaging animations and video edits that grab attention and spark conversations.
                             </li>
                             <li>
-                                Schedule Like a Pro: Plan your social media strategy in advance and schedule posts seamlessly across all your platforms.
+                            Schedule like a pro. Plan your content calendar, seamlessly schedule posts across platforms, and take control of your social media strategy.
+                            </li>
+                            <li>
+                            Unleash your creative power and transform your online presence - explore our suite today!
                             </li>
                         </ul>
-                        
+
                     </div>
 
                     <div className=" w-full h-full relative ">
