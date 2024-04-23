@@ -72,7 +72,7 @@ function TabsComponent() {
                         <h1 className="text-2xl font-bold text-center md:text-left">Your website can be a sales machine! </h1>
                         <p className="text-gray-500">our website can be a sales machine! Most websites just look nice. But a great website can get you twice as many sales. A pretty face isn't enough.</p>
 
-                        <p className="text-gray-500">Visitors need to understand what you offer and why they should care. We build websites that are both beautiful and smart:</p>
+                        <p className="text-gray-500 font-bold">Visitors need to understand what you offer and why they should care. We build websites that are both beautiful and smart:</p>
 
 
                         <ul className="list-disc space-y-3 text-gray-500 text-sm">
