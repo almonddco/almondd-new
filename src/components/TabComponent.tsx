@@ -102,17 +102,24 @@ function TabsComponent() {
                         <p className="text-gray-500">Creatives, ditch the design struggles! Build a thriving online presence with our all-in-one suite</p>
 
 
-                        <ul className="list-disc space-y-3 text-gray-500">
+                        <ul className="list-disc space-y-3 text-gray-500 text-sm px-3">
                             <li>
-                                Craft stunning visuals and write catchy captions in minutes - no design experience needed. Tailor content for each platform to maximize reach.</li>
+                                <b>
+                                    Tailor content : &nbsp;
+                                </b>
+                                Craft stunning visuals and write captions that convert in minutes.</li>
                             <li>
-                            Go beyond static! Create engaging animations and video edits that grab attention and spark conversations.
+                                <b>
+                                    Go beyond static posts: &nbsp;
+                                </b>
+                                Create attention-grabbing animations and video edits that spark conversations.
                             </li>
+
                             <li>
-                            Schedule like a pro. Plan your content calendar, seamlessly schedule posts across platforms, and take control of your social media strategy.
-                            </li>
-                            <li>
-                            Unleash your creative power and transform your online presence - explore our suite today!
+                                <b>
+                                    Schedule like a pro: &nbsp;
+                                </b>
+                                Plan your content calendar, seamlessly schedule posts across platforms.
                             </li>
                         </ul>
 
