@@ -17,34 +17,34 @@ export const SEARCH: Page = {
 
 // Links
 export const LINKS: Links = [
-  { 
-    TEXT: "Home", 
-    HREF: "/", 
+  {
+    TEXT: "Home",
+    HREF: "/",
   }
 ]
 
 // Socials
 export const SOCIALS: Socials = [
-  { 
+  {
     NAME: "Email",
-    ICON: "email", 
+    ICON: "email",
     TEXT: "hello@almondd.in",
-    HREF: "hello@almondd.in",
+    HREF: "mailto:hello@almondd.in",
   },
-  { 
+  {
     NAME: "LinkedIn",
     ICON: "linkedin",
     TEXT: "almondd",
     HREF: "https://www.linkedin.com/company/almondd/",
   },
-  { 
+  {
     NAME: "Instagram",
     ICON: "instagram",
     TEXT: "markhorn_dev",
     HREF: "https://instagram.com/almondd_agency?igshid=YmMyMTA2M2Y=",
   },
 
-  { 
+  {
     NAME: "Facebook",
     ICON: "facebook",
     TEXT: "markhorn_dev",

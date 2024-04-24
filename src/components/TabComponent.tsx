@@ -70,15 +70,15 @@ function TabsComponent() {
 
                     <div className="space-y-4 w-full ">
                         <h1 className="text-2xl font-bold text-center md:text-left">Your website can be a sales machine! </h1>
-                        <p className="text-gray-500">our website can be a sales machine! Most websites just look nice. But a great website can get you twice as many sales. A pretty face isn't enough.</p>
+                        <p className="text-gray-500">Most websites just look nice. But a great website can get you twice as many sales</p>
 
-                        <p className="text-gray-500 font-bold">Visitors need to understand what you offer and why they should care. We build websites that are both beautiful and smart:</p>
+                        <p className="text-gray-500 ">Visitors need to understand what you offer and why they should care. We build websites that are both beautiful and smart:</p>
 
 
                         <ul className="list-disc space-y-3 text-gray-500 text-sm">
                             <li> <b>Get more leads:</b> Attract the right people who are interested in buying from you.</li>
                             <li>
-                                <b>Beat the competition:</b> Stand out from the crowd and show why you're the best choice. Connect with customers: Speak directly to their needs and build trust.
+                                <b>Beat the competition:</b> Stand out from the crowd and show why you're the best choice. Connect with customers.
                             </li>
 
                         </ul>
@@ -107,19 +107,19 @@ function TabsComponent() {
                                 <b>
                                     Tailor content : &nbsp;
                                 </b>
-                                Craft stunning visuals and write captions that convert in minutes.</li>
+                                We craft stunning visuals and write captions that convert in minutes.</li>
                             <li>
                                 <b>
                                     Go beyond static posts: &nbsp;
                                 </b>
-                                Create attention-grabbing animations and video edits that spark conversations.
+                                We create attention-grabbing animations and video edits that spark conversations.
                             </li>
 
                             <li>
                                 <b>
                                     Schedule like a pro: &nbsp;
                                 </b>
-                                Plan your content calendar, seamlessly schedule posts across platforms.
+                               We plan your content calendar, seamlessly schedule posts across platforms.
                             </li>
                         </ul>
 
